@@ -9,9 +9,9 @@ Player needs to eat the required number of mice available on the level before ti
 ### Magic Dungeon (https://teresewang.itch.io/mca4)
 # Concept
 Player is trapped in the dungeon and need to find a way out by killing all the monsters generated and moved toward the player.
-# Goal and Description
+#### Goal and Description
 Player is able to cast 3 types of spells to kill the newly generated monsters. When desired number of monsters are killed, the player enters next level.
-Core Mechanics
+#### Core Mechanics
 • Player will be able to control the the character using WASD key and jump using space key. Player is also able to increase the speed by using right shift.
 • When inputting number 1, 2 and 3, player is being able to switch skills. (Ice spell allows to freeze the wizard and slow the skeleton soldiers. Poisson spell will cast a poisonous effect which will constantly decrease the enemy health.)
 • When the enemy is getting close to the player within their attack range, they will stop moving and start to attack.
@@ -20,7 +20,7 @@ Core Mechanics
 • The enemy will avoid the dynamic moving platform and other obstacles placed in the area. Player can use the dynamic moving platform to attack the enemy. The close attack
 enemy is not being able to jump to the platform. However the far attack enemy is still
 able to attack the player.
-Controls and UI
+#### Controls and UI
 • Keyboard input to move the player
 • Space Key to Jump
 • Shift Key to Speed up
@@ -30,7 +30,7 @@ level.
 • UI Text for rendering when the game is ended
 • Main Menu
 • Stop Menu when pressing esc key
-Levels
+#### Levels
 • The first level will only generate skeleton soldiers
 • The second level will start to generate wizards which will cast spells to player, the
 generation speed will also increase
