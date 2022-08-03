@@ -7,7 +7,7 @@ When the game begins, the Cube should learn about the capsules in the scene and 
 Player needs to eat the required number of mice available on the level before times up and also avoid being caught by the dog. In addition, garbage will also be available on the ground, if collected, player will get sick and one of the mice they collected will be reduced.  
 
 ### Magic Dungeon (https://teresewang.itch.io/mca4)
-# Concept
+#### Concept
 Player is trapped in the dungeon and need to find a way out by killing all the monsters generated and moved toward the player.
 #### Goal and Description
 Player is able to cast 3 types of spells to kill the newly generated monsters. When desired number of monsters are killed, the player enters next level.
